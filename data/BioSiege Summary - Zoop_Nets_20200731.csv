@@ -1,0 +1,24 @@
+Site.Net.Sample.Non_Filtered_Preserved_Sample_ID,Date,Site.Field_Date_and_Time,Gather_Location,Site.Net.Depth,Site.Net.Flow_in,Site.Net.Flow_out,Site.Net.Depth,Site.Net.Sample.Non_Filtered_Preservation_Method,Site.Net.Revolutions,Site.Net.Net_ID,Site.Net.Size.Mesh_Size,Site.Net.Size.Diameter__cm_,Site.Net.Size.Length__cm_,Site.Net.Size.Configuration,Site.Net.Sample.Sample_Notes
+,,,,,,,,,,,,,,,
+Collection Code,Date,Sample Time,Location,Sample Depth,Flow Meter In,Flow Meter Out,Net Depth,Preservation,Net Revolutions,Net ID,Mesh Size,Net Diameter,Net Length,Net Configuration,Notes
+BIOMS-1z,2020-06-01,9:58:41,,4,,,4, Hand sort,,10,250,50,200,Single,2 hauls
+BIOMS-2z,2020-06-08,9:19:35,,6,,,6, Hand sort,,10,250,50,200,Single,2 hauls
+BIOMS-3z,2020-06-15,9:22:42,,2,,,2, Hand sort,,10,250,50,200,Single,2 hauls
+QPK2071,2020-06-22,9:25:32,,6,287531,287758,6,Formalin,227,1,250,50,200,Single,
+BIOMS-4z,2020-06-22,9:31:51,,6,,,6, Hand sort,,10,250,50,200,Single,2 hauls
+QPK2073,2020-06-22,17:08:03,,6,288130,288406,6,Formalin,276,1,250,50,200,Single,
+QPK2074,2020-06-23,11:04:05,"lat=50.117037, long=-125.222539, alt=2.530025, hAccuracy=10.000000, vAccuracy=12.000000, timestamp=2020-06-23T17:13:20Z",6,288677,288898,6,Formalin,221,1,250,50,200,Single,
+QPK2075,2020-06-23,17:54:45,,6,288950,289186,6,Formalin,236,1,250,50,200,Single,
+BIOMS-7z,2020-06-23,17:57:58,,6,,,6, Hand sort,,10,250,50,200,Single,1 haul
+BIOMS-9z,2020-06-29,9:00:18,,6,,,6, Hand sort,,10,250,50,200,Single,2 hauls
+QPK2076,2020-06-29,9:21:15,,6,297853,298033,6,Formalin,180,1,250,50,200,Single,
+QPK2077,2020-06-29,14:31:36,"lat=50.117039, long=-125.222698, alt=13.565975, hAccuracy=10.000000, vAccuracy=12.000000, timestamp=2020-06-29T21:04:36Z",5,298040,298207,5,Formalin,167,1,250,50,200,Single,
+QPK2078,2020-06-30,9:32:08,"lat=50.117156, long=-125.222566, alt=1.298397, hAccuracy=10.000000, vAccuracy=8.000000, timestamp=2020-06-30T16:06:00Z",3,,,3,Formalin,,1,250,50,200,Single,
+QPK2079,2020-07-06,9:35:26,,6,,,6,Formalin,,1,250,50,200,Single,
+BIOMS-12z,2020-07-06,9:42:17,,6,,,6, Hand sort,,10,250,50,200,Single,2 hauls
+QPK2084,2020-07-13,9:17:21,"lat=50.117188, long=-125.222791, alt=13.510925, hAccuracy=10.000000, vAccuracy=16.000000, timestamp=2020-07-13T16:02:11Z",6,,,6,Formalin,,1,250,50,200,Single,
+BIOMS-15z,2020-07-13,9:22:09,"lat=50.117188, long=-125.222791, alt=13.510925, hAccuracy=10.000000, vAccuracy=16.000000, timestamp=2020-07-13T16:02:11Z",6,,,6, Hand sort,,10,250,50,200,Single,2 hauls
+QPK2101,2020-07-20,9:31:07,"lat=50.117146, long=-125.222420, alt=-8.058323, hAccuracy=10.000000, vAccuracy=12.000000, timestamp=2020-07-20T15:57:11Z",5,328519,328668,5,Formalin,149,1,250,50,200,Single,
+BIOMS-18z,2020-07-20,9:38:56,"lat=50.117146, long=-125.222420, alt=-8.058323, hAccuracy=10.000000, vAccuracy=12.000000, timestamp=2020-07-20T15:57:11Z",5,,,5, Hand sort,,10,250,50,200,Single,2 hauls
+BIOMS-19z,2020-07-27,9:57:53,,6,,,6, Hand sort,,10,250,50,200,Single,
+QPK2090,2020-07-27,10:41:47,,6,337615,337734,6,Formalin,119,1,250,50,200,Single,
